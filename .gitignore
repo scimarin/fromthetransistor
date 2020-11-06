@@ -1,2 +1,4 @@
 tags
 obj_dir/
+__pycache__/
+example.s
